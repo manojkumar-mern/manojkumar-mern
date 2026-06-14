@@ -10,7 +10,7 @@
 
 ---
 
-## 👤 About Me
+## About Me
 - MERN Stack Developer passionate about building modern web apps  
 - Currently learning **Advanced Backend & System Design**  
 - Focused on **real-world problem solving**  
