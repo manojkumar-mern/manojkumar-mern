@@ -18,7 +18,7 @@
 
 ---
 
-## 🌐 Portfolio & Resume
+## Portfolio & Resume
 <p align="center">
   <a href="https://manoj-portfolio-mern.vercel.app/">
     <img src="https://img.shields.io/badge/🌍 Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -31,28 +31,28 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,html,css,git,github,vscode" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/manojkumar-mern/manojkumar/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manojkumar-mern&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojkumar-mern&theme=tokyo-night&hide_border=true&area=true" />
@@ -60,14 +60,14 @@
 
 ---
 
-## 🧠 Top Languages
+## Top Languages
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manojkumar-mern&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌌 Featured Projects
+## Featured Projects
 ### 💬 Chat App (Real-Time)
 
 <p align="center">
