@@ -1,4 +1,4 @@
-<!--  BANNER -->
+<<!--  BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/manojkumar-mern/manojkumar-mern/refs/heads/main/banner.png" width="100%" />
 </p>
@@ -47,7 +47,7 @@
 
 ## GitHub Stats
 <p align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manojkumar-mern&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-delta-gray-86.vercel.app/api?username=manojkumar-mern&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -55,14 +55,14 @@
 ## Contribution Activity
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojkumar-mern&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojkumar-mern&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
 ## Top Languages
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manojkumar-mern&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-delta-gray-86.vercel.app/api/top-langs/?username=manojkumar-mern&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -137,4 +137,4 @@
 ---
 
 ## 🧑‍💻 Developer Mindset
-> “First, solve the problem. Then, write the code.” 
+> “First, solve the problem. Then, write the code.”
