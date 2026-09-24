@@ -1,4 +1,4 @@
-<<!--  BANNER -->
+<!--  BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/manojkumar-mern/manojkumar-mern/refs/heads/main/banner.png" width="100%" />
 </p>
